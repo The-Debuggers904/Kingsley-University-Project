@@ -2056,7 +2056,7 @@ color: var(--button-bg-color);
     color: var(--elegant-text);
     margin-bottom: 1rem;
   }
-  #how .step.left{
+/*   #how .step.left{
     transform: translateX(-500px);
     opacity: 0;
     transition: all 0.8s ease-in-out;
@@ -2069,7 +2069,7 @@ color: var(--button-bg-color);
   .go-right, .go-left{
     transform: translateX(0) !important;
     opacity: 1 !important;
-  }
+  } */
   /* *SECTION - End How */
   /* *SECTION - Start apply */
   #apply p{
